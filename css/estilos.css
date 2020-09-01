@@ -1,0 +1,63 @@
+body
+{
+    background-color: #3A4043;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:0;
+    border:0;
+    margin:0;
+}
+
+#menu
+{
+    width:20%;
+    float: left;
+}
+
+#cuerpo
+{
+    width:80%;
+    float: right;
+    height: 100vh;
+}
+
+a {
+    color: white; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+    font-size: large;
+    font-weight: bold;
+  }
+  a:hover {
+    color: #C5CAC9;
+}
+
+.estilomenu2
+{
+    color: #8B9090;
+}
+
+.contenedor
+{
+    height: 25%;
+}
+
+#celeste
+{
+    background-color: #69D2E7;
+}
+
+#amarillo
+{
+    background-color: #F9D423;
+}
+
+#naranja
+{
+    background-color: #F38630;
+}
+
+#rojo
+{
+    background-color: #FF4E50;
+}
